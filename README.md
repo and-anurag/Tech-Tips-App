@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tech Tips App - Your Pocket-Sized Tech Guru</title>
 </head>
 <body>
   <h1>Tech Tips App - Your Pocket-Sized Tech Guru</h1>
