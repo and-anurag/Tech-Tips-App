@@ -4,27 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Tech Tips App - Your Pocket-Sized Tech Guru</title>
-  <style>
-    body {
-      font-family: sans-serif;
-      margin: 2rem;
-    }
-    h1 {
-      font-size: 2rem;
-      margin-bottom: 1rem;
-    }
-    h2 {
-      font-size: 1.5rem;
-      margin-bottom: 1rem;
-    }
-    p {
-      line-height: 1.5;
-    }
-    ul {
-      list-style: disc;
-      padding-left: 1.5rem;
-    }
-  </style>
 </head>
 <body>
   <h1>Tech Tips App - Your Pocket-Sized Tech Guru</h1>
