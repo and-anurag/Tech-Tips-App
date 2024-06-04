@@ -1,7 +1,7 @@
 
-![Screenshot_20240604_154619](https://github.com/and-anurag/Tech-Tips-App/assets/142401144/dba30915-920f-4edc-8737-e8082c094947) style="width: 50%;"
+![Screenshot_20240604_154619](https://github.com/and-anurag/Tech-Tips-App/assets/142401144/3052c6f9-a797-4d08-8c25-a0c6a05ab403)
 
-![Screenshot_20240604_154944](https://github.com/and-anurag/Tech-Tips-App/assets/142401144/b5556f15-ab07-4a92-921d-2db5ac92812c)
+![Screenshot_20240604_154944](https://github.com/and-anurag/Tech-Tips-App/assets/142401144/ab24f4ec-9ff5-4cdf-9d6b-45bc45802a47)
 
 <!DOCTYPE html>
 <html lang="en">
