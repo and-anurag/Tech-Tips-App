@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="app_name">30 Days Tech Tips</string>
+
+    <string name="tip_charge_phone_at_night">Optimize battery life by charging your phone overnight at lower currents.</string>
+    <string name="tip_use_two_factor_auth">Protect accounts with two-factor authentication for added security.</string>
+    <string name="tip_clear_browsing_data">Clear browsing data regularly for privacy and performance.</string>
+    <string name="tip_disable_unnecessary_notifications">Control notifications to avoid distractions and prioritize important ones.</string>
+    <string name="tip_use_strong_passwords">Create strong and unique passwords for each account.</string>
+    <string name="tip_back_up_important_data">Regularly back up photos, documents, and other important data.</string>
+    <string name="tip_use_offline_maps">Download offline maps for navigation without internet access.</string>
+    <string name="tip_enable_find_my_device">Enable "Find My Device" to locate your phone if lost.</string>
+    <string name="tip_use_dark_mode">Enable dark mode on devices and apps for reduced eye strain and battery savings.</string>
+    <string name="tip_organize_photos">Organize photos by date, location, or tags for easier searching.</string>
+
+    <string name="title_charge_phone_at_night">Charge phone at night</string>
+    <string name="title_use_two_factor_auth">Use two factor authentication</string>
+    <string name="title_clear_browsing_data">Clear browsing data</string>
+    <string name="title_disable_unnecessary_notifications">Disable unnecessary notifications</string>
+    <string name="title_use_strong_passwords">Use strong passwords</string>
+    <string name="title_back_up_important_data">Back up important data</string>
+    <string name="title_use_offline_maps">Use offline maps</string>
+    <string name="title_enable_find_my_device">Enable find my device</string>
+    <string name="title_use_dark_mode">Enable dark mode</string>
+    <string name="title_organize_photos">Organize photos</string>
+
+    <string name="day_1">Day 1</string>
+    <string name="day_2">Day 2</string>
+    <string name="day_3">Day 3</string>
+    <string name="day_4">Day 4</string>
+    <string name="day_5">Day 5</string>
+    <string name="day_6">Day 6</string>
+    <string name="day_7">Day 7</string>
+
+</resources>
