@@ -1,5 +1,5 @@
 
-![Screenshot_20240604_154619](https://github.com/and-anurag/Tech-Tips-App/assets/142401144/dba30915-920f-4edc-8737-e8082c094947)
+![Screenshot_20240604_154619](https://github.com/and-anurag/Tech-Tips-App/assets/142401144/dba30915-920f-4edc-8737-e8082c094947) style="width: 50%;"
 
 ![Screenshot_20240604_154944](https://github.com/and-anurag/Tech-Tips-App/assets/142401144/b5556f15-ab07-4a92-921d-2db5ac92812c)
 
